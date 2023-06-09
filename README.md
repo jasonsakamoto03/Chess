@@ -1,3 +1,4 @@
 # Chess
 This repository is a game of Chess
-Update: not started
+
+Update: Added files some fields
